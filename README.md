@@ -80,8 +80,7 @@ If you use this project or dataset, please cite our publication:
 
 ## 📊 Sample Visuals
 
-
-![The general flow of the methodology followed](research flow drawio.png)
+![The general flow of the methodology followed](research_flow.png)
 ![(a) Bihar state boundaries; (b) Population density of Bihar](Slide1.JPG)
 ![Image thresholding employed on GEE to obtain the (a) Flood inundation; (b) Affected districts due to flood](Slide2.JPG)
 
