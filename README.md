@@ -78,15 +78,6 @@ If you use this project or dataset, please cite our publication:
 
 ---
 
-## 📁 Project Structure
-
-📦 flood-risk-bihar
- ┣ 📜 flood_risk_bihar.js       # Earth Engine code (JS)
- ┣ 📜 README.md                 # This file
- ┣ 📁 images/                   # Screenshots and visualizations
-
----
-
 ## 📌 Keywords
 
 `Earth Engine` · `Flood Detection` · `Sentinel-1` · `VV Polarization` · `Otsu Thresholding`  
